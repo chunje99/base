@@ -1,5 +1,5 @@
-bin_PROGRAMS = city
+bin_PROGRAMS = base
 
-city_SOURCES = city.cpp
-city_LDADD = 
+base_SOURCES = base.cpp
+base_LDADD = 
 
